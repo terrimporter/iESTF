@@ -21,11 +21,13 @@
 title: iESTF
 email: iestfcomms@gmail.com
 description: "International eDNA Standardization Task Force"
+license: creativecommons.org/licenses/by/4.0
 
 header_pages:
   - about.md
 
-baseurl: "terrimporter.github.io/iESTF" # the subpath of your site, e.g. /blog
+#domain: terrimporter.github.io
+#baseurl: "terrimporter.github.io/iESTF" # the subpath of your site, e.g. /blog
 url: "https://terrimporter.github.io/iESTF" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: ""
 #github_username:  terrimporter
@@ -33,9 +35,11 @@ url: "https://terrimporter.github.io/iESTF" # the base hostname & protocol for y
 # Build settings
 markdown: kramdown
 theme: minima
+#remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-tabs
+#  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
