@@ -2,7 +2,9 @@
 page.title: "iESTF"
 layout: default
 ---
-
+<p align="center">
+   <img src="./images/iESTFlogo.jpg" width="100"/>
+</p><br>
 <h2> International eDNA Standardization Task Force </h2>
 
 The International eDNA Standardization Task Force (iESTF) leverages resources and knowledge from members of the eDNA community for coordinated and timely adoption of international eDNA standards.
