@@ -13,6 +13,12 @@ permalink: /about/
 <h3>Pedro Baja</h3>
 
 <h3>Hideyuki Doi</h3>
+<i>Kyoto University, Japan</i>
+<p align="center">
+   <img src="../images/HideyukiDoi.JPG" width="100"/>
+</p><br>
+Dr. Doi works on eDNA method development with a focus on freshwater ecosystems using eDNA metabarcoding and development of on-site methods.   
+<a href="../applications#freshwaterbiomonitoring">Freshwater Biomonitoring</a> | <a href="../applications#ecologicalstudies">Ecological Studies</a> 
 
 <h3>Nicole Fahner</h3>
 
@@ -33,7 +39,7 @@ Dr. Mehrdad Hajibabaei’s research focuses on the application of genomics infor
 <p align="center">
    <img src="../images/RyanKelly.jpeg" width="100"/>
 </p><br>
-Ryan Kelly is the Director of the eDNA Collaborative at the University of Washington and a faculty member in the UW School of Marine and Environmental Affairs. His work with eDNA focuses on quantitative analysis of ecological and management questions, in the service of moving eDNA science into routine practical application around the world.  
+Dr. Kelly is the Director of the eDNA Collaborative at the University of Washington and a faculty member in the UW School of Marine and Environmental Affairs. His work with eDNA focuses on quantitative analysis of ecological and management questions, in the service of moving eDNA science into routine practical application around the world.  
 <a href="../applications#marinebiomonitoring">Marine Biomonitoring</a> | <a href="../applications#ecologicalstudies">Ecological Studies</a>
 
 <h3>Katy Klymus</h3>
@@ -49,10 +55,22 @@ Dr. Kondoh leads ANEMONE, a comprehensive biodiversity monitoring project in Jap
 <a href="../applications#ecologicalstudies">Ecological Studies</a>
 
 <h3>Florian Leese</h3>
+<i>University of Duisburg-Essen, Germany</i>
+<p align="center">
+   <img src="../images/FlorianLeese.jpeg" width="100"/>
+</p><br>
+Florian Leese is a Full Professor of Aquatic Ecosystem Research at the Unviersity of Duisburg-Essen. A key expertise of Florian and his group is the development of DNA and eDNA-based methods for biodiversity assessment and biomonitoring. A key expertise is in the upscaling of methods for large-scale monitoring as well as the development of QA/QC to improve reliability and comparability of data. As Chair of COST Action DNAqua-Net, Florian coordinated the development of methods for routine montioring of Europe’s aquatic ecosystems from 2016-2021.  
+<a href="../applications#freshwaterbiomonitoring">Freshwater Biomonitoring</a>
 
 <h3>Kristian Meissner</h3>
 
-<h3>Toshifumi Minamoto</h3>
+<h3>Toshifumi Minamoto</h3>  
+<i>Kobe University, Japan</i>  
+<p align="center">
+   <img src="../images/ToshifumiMinamoto.jpeg" width="100"/>
+</p><br>
+Dr. Minamoto is a professor at the Graduate School of Human Development and Environment, Kobe University, Japan. He was one of the first in Japan to study eDNA of macroorganisms. He is currently the PI of a laboratory specializing in eDNA analysis and studying all aspects of eDNA. He was responsible for editing the experimental manuals published by The eDNA Society, and the English version of the  manual was published in 2019. He is currently the President of The eDNA Society.  
+<a href="../applications#genomicmethoddevelopment">Genomic Method Development</a>
 
 <h3>Teresita Porter</h3>
 <i>Centre for Biodiversity Genomics @ Biodiversity Institute of Ontario</i>
@@ -65,7 +83,21 @@ Dr. Porter uses DNA-based methods to survey complex communities in from environm
 
 <h3>Saara Suominen</h3>
 
-<h3>Susanna Theroux</h3>
+<h3>Susanna Theroux</h3>  
+<i>Southern California Coastal Water Research Project (SCCWRP), USA</i> 
+<p align="center">
+   <img src="../images/SusannaTheroux.png" width="100"/>
+</p><br>
+Dr. Theroux is a scientist at the Southern California Coastal Water Research Project (SCCWRP). Her research focuses on the development of molecular methods for biomonitoring and bioassessment. She leads the California Molecular Methods Workgroup which develops standardized protocols and guidelines for statewide monitoring programs.  
+<a href="../applications#genomicmethoddevelopment">Genomic Method Development</a> | <a href="../applications#remediationandrestorationmonitoring">Remediation and Restoration Monitoring</a>
 
 <h3>Hiroki Yamanaka</h3>
+
+<h3>Anastasija Zaiko</h3>
+<i>Cawthron Institute, New Zealand</i>
+<p align="center">
+   <img src="../images/AnastasijaZaiko.jpg" width="100"/>
+</p><br>
+Dr. Anastasija Zaiko is a Senior Scientist at the Cawthron Institute, New Zealand and the co-founder of the Sequench Ltd (a professional laboratory, providing molecular analyses of complex environmental samples). Her work is focused on advancing the field of eDNA, designing new assays for molecular surveillance of marine species, developing and optimizing sampling strategies and sample processing approaches. Over the last 10 years, Dr. Zaiko has led multiple research and commercial projects where molecular (eDNA/eRNA) technologies were applied to address various environmental questions across aquatic ecosystems. This resulted in >80 peer-reviewed scientific publications in high-impact journals. Currently, Anastasija co-leads the Marine Biosecurity Toolbox (https://www.biosecurity-toolbox.org.nz/programme) and oversees the DETECT research theme to ensure effective integration of molecular approaches into the developing biosecurity toolbox. She is also involved in the development and validation of eDNA/eRNA-based tools for the routine environmental monitoring in aquatic ecosystems, ecological health indicators and a range of projects focusing on different biosecurity aspects.  
+<a href="../applications#genomicmethoddevelopment">Genomic Method Development</a> | <a href="../applications#invasivespecies">Invasive Species</a> | Bioinformatics | Ecosystem health assessment | Blue economy | High-throughput seuqencing | Biosecurity
 
