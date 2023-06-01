@@ -24,6 +24,7 @@ description: "International eDNA Standardization Task Force"
 license: creativecommons.org/licenses/by/4.0
 
 header_pages:
+  - applications.md
   - about.md
 
 #domain: terrimporter.github.io
